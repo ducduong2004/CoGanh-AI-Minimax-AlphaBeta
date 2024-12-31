@@ -1,0 +1,1 @@
+A project focused on building an AI agent for games using Minimax and Alpha-Beta Pruning algorithms. This repository includes implementations of these search algorithms to enhance game-playing performance.
